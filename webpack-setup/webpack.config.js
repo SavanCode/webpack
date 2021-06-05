@@ -5,6 +5,9 @@ module.exports = {
     mode: 'development',
     //mode: 'production', 
     devtool: 'source-map',
+    devServer:{
+        contentBase:'./dist'
+    },
     module:{
         rules:[ 
             //object array
