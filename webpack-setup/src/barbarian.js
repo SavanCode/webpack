@@ -1,1 +1,1 @@
-export const barbarian = "barbarian"
+export const barbarian = "Barbarian"

@@ -12,7 +12,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "barbarian": () => (/* binding */ barbarian)
 /* harmony export */ });
-var barbarian = "barbarian";
+var barbarian = "Barbarian";
 
 /***/ }),
 
